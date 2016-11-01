@@ -1,0 +1,3 @@
+rootProject.name = 'BananasReactNative'
+
+include ':app'
